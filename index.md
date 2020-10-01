@@ -10,13 +10,10 @@ I am having 10.0+ years of research experience in the areas of Artificial Intell
 
 ### Areas of interests
 
-My research interests are in the areas of Artificial Intelligence, Uncertainty Reasoning, Neuro-Symbolic Integration,
-
-Knowledge Based Neuro Computing, Knowledge Engineering, Machine Translation, Natural Language Processing and Machine Learning.
+My research interests are in the areas of Artificial Intelligence, Uncertainty Reasoning, Neuro-Symbolic Integration, Knowledge Based Neuro Computing, Knowledge Engineering, Machine Translation, Natural Language Processing and Machine Learning.
 
 I am currently exploring problems in Statistical Machine Translation and in Uncertainty Reasoning..
 
-I am having 10.0+ years of research experience in the areas of Artificial Intelligence.
 
 ### Educational Background
 
@@ -29,6 +26,7 @@ I am having 10.0+ years of research experience in the areas of Artificial Intell
 
 1. Women Scientist Award, Department of Science and Technology, Govt. of India 2015
 2. AABC Achievement Award 2008
+
 ### Positions Held
 
 1. DST-Woman Scientist, Dept. of Computer Science & Engg., IIT Bombay - Dept. of Science and Technology, Govt. of India; 07/2015 to present(3 years)
@@ -39,6 +37,7 @@ I am having 10.0+ years of research experience in the areas of Artificial Intell
 6. Programmer Trainee, IIITM-K(Indian Institute of Information Technology and Management Kerala), Thiruvananthapuram, Kerala, India; 02/2007 to 08/2007 (6 months)
 7. Master Trainer, Information Kerala Mission (IKM), Thiruvananthapuram, Kerala, India; 02/2004 to 08/2004 (6 months)
 8. Software Developer, Software Technology Parks of India(STPI), Thiruvananthapuram, Kerala, India; 08/2003 to 01/2004 (5 months)
+
 ### About Me
 
 [ORCID Profile-orcid.org/0000-0002-5455-5023](https://orcid.org/0000-0002-5455-5023)
@@ -61,9 +60,6 @@ I am having 10.0+ years of research experience in the areas of Artificial Intell
 
 
  ![Image](src)
-
-
-
 
 ### Projects I am working on
 
