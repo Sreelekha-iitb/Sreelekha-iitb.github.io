@@ -4,7 +4,7 @@
 
 Currently, I am a DST- Woman Scientist at the Department of Computer Science and Engineering, IIT Bombay.
 
-I am working with Prof. Pushpak Bhattacharyya at the Center for Indian Language Technology (CFILT).
+I am working with [Prof. Pushpak Bhattacharyya](www.cse.iitb.ac.in/~pb) at the [Center for Indian Language Technology (CFILT)](www.cfilt.iitb.ac.in), IIT Bombay.
 
 I am having 10.0+ years of research experience in the areas of Artificial Intelligence. In addition, I am having 10.0 + years of experience in Software Development.
 
