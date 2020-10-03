@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : EntryWay 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140124
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container" style="width:100%;">
+		<div id="logo">
+			<h1></span><a href="#">Sreelekha S </a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li class="current_page_item"><a href="index.html" accesskey="1" title="">Homepage</a></li>
+				<li><a href="AboutMe.html" accesskey="2" title="">About Me</a></li>
+				<li><a href="MyResearch.html" accesskey="3" title="">My Research</a></li>
+				<li><a href="MyPublications.html" accesskey="4" title="">My Publications</a></li>
+				<li><a href="ContactMe.html" accesskey="5" title="">Contact Me</a></li>
+			</ul>
+			<p>"Satyameva Jayate" (Sanskrit: सत्यमेव जयते satyam-eva jayate; "Truth alone triumphs.")
+<img src="Sree.JPG" ALIGN=RIGHT alt="Image of Seal" width="100" height="120"></p>
+		</div>
+<img src="banner.jpg" ALIGN=CENTRE class="sealImage" alt="Image of Seal">
+	</div>
+</div>
+<!--div id="header-featured">
+	<div id="banner" class="container"> </div>
+</div-->
+<div id="wel">
+	<div class="container"><span id='badgeCont953141' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont953141&mashlet=badge&showTitle=false&className=a&rid=B-7075-2018'></script></span>
+<img src="orcid.org-0000-0002-5455-5023.PNG" ALIGN=LEFT alt="Image of Seal" width="150" height="150">
+
+</p>
+		<h2>I am an aspiring AI Researcher</h2>
+		<p>Currently, I am a DST- Woman Scientist at the Department of Computer Science and Engineering, IIT Bombay.</p> 
+<p>I am working with <a href="https://www.cse.iitb.ac.in/~pb/" >Prof. Pushpak Bhattacharyya</a> at the Center for Indian Language Technology (<a href="http://www.cfilt.iitb.ac.in/" >CFILT</a>).</p>
+<p>I am having 10.0+ years of research experience in the areas of Artificial Intelligence. In addition, I am having 10.0 + years of experience in Software Development.</p>
+<h2>Educational Background...</h2>
+	<p><ol type="1" class="mylist">
+  		     <li>PhD Statistical Machine Translation 2018 </li>
+		     <li>MTech Knowledge Engineering 2011</li>
+		     <li>BTech Computer Science & Engineering 2008</li>
+		     <li>Diploma Computer Engineering 2003</li>
+	<ol></p>
+	<h2>Honours and Awards...</h2>
+	<p><ol type="1" class="mylist">
+  		     <li>Women Scientist Award, Department of Science and Technology, Govt. of India 2015 </li>
+		     <li>AABC Achievement Award 2008</li>
+	<ol></p>
+<h2>Positions Held...</h2>
+	<p><ol type="1" class="mylist">
+  		     <li>DST-Woman Scientist, Dept. of Computer Science & Engg., IIT Bombay - Dept. of Science and Technology, Govt. of India; 07/2015 to present(3 years)</li>   
+		     <li>Research Assistant, Dept. of Computer Sciecne & Engg., IIT Bombay; 04/2012 to 06/2015 (3.2 years)</li> 
+		     <li>Oracle eBusiness Suite Analyst, iBizSoft Inc., Bangalore, India; 09/2011 to 04/2012 (7 months)</li>  
+		     <li>Software Programmer, SRM Technologies: Bangalore, India; 04/2011 to 09/2011 (5 months)</li>   
+		     <li>Software Developer, VedhasTech: Thiruvananthapuram, Kerala, India; 06/2008 to 08/2009 (1.2 years)</li>   
+		     <li>Programmer Trainee, IIITM-K(Indian Institute of Information Technology and Management Kerala), Thiruvananthapuram, Kerala, India; 02/2007 to 08/2007 (6 months)</li>
+		     <li>Master Trainer, Information Kerala Mission (IKM), Thiruvananthapuram, Kerala, India; 02/2004 to 08/2004 (6 months)</li>  
+		     <li>Software Developer, Software Technology Parks of India(STPI), Thiruvananthapuram, Kerala, India; 08/2003 to 01/2004 (5 months)</li>
+	<ol></p>
+
+				<p><a href="https://orcid.org/0000-0002-5455-5023" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID Profile-orcid.org/0000-0002-5455-5023</a></p>
+				<p><a href="http://dblp.uni-trier.de/pers/hc/s/S:Sreelekha" >DBLP Bibliography Profile</a></p>
+				<p><a href="https://scholar.google.co.in/citations?user=3gLsq9IAAAAJ&hl=en" >GoogleScholar Profile</a></p>
+				<p><a href="http://www.researcherid.com/rid/B-7075-2018" >ResearcherID Profile</a></p>
+				<p><a href="https://www.researchgate.net/profile/Sreelekha_S2/" >Researchgate Profile</a></p>
+				<p><a href="https://iitbombay.academia.edu/SreelekhaS" >Academia.edu Profile</a></p>
+				<p><a href="https://in.linkedin.com/in/sreelekha-s-nair-68804617" >LinkedIn Profile</a>
+				<p><a href="https://publons.com/a/1375407/" >Publons Profile</a>
+				<p><a href="https://www.facebook.com/sreelekha.snair.5" >Facebook Profile</a></p>
+		<!--a href="#" class="button">Etiam posuere</a--> </div>
+</div>
+
+<div id="copyright" class="container">
+	<p>"Satyameva Jayate" (Sanskrit: सत्यमेव जयते satyam-eva jayate; lit. "Truth alone triumphs.")</p>
+<p>A mantra from the ancient Indian scripture Mundaka Upanishad- The national motto of India</p>
+<p>In Devanāgarī script	: सत्यमेव जयते नानृतं	सत्येन पन्था विततो देवयानः ।	येनाक्रमन्त्यृषयो ह्याप्तकामा	यत्र तत् सत्यस्य परमं निधानम् ॥६॥
+<p> In Transliteration	: satyameva jayate nānṛtaṁ	satyena panthā vitato devayānaḥ  yenākramantyṛṣayo hyāptakāmā	yatra tat satyasya paramaṁ nidhānam</p>
+<p>In English	: Truth alone triumphs; not falsehood. Through truth the divine path is spread out,	by which the sages whose desires have been completely fulfilled, reach where that supreme treasure of Truth resides.
+</p>
+	<p>&copy; <a href="https://en.wikipedia.org/wiki/Satyameva_Jayate" >Satyameva Jayate</a>. All rights reserved. | Design by Sreelekha</a>.</p>
+</div>
+</body>
+</html>

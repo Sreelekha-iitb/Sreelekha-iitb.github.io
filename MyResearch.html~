@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : EntryWay 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140124
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container" style="width:100%;">
+		<div id="logo">
+			<h1></span><a href="#">Sreelekha S </a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li class="current_page_item"><a href="index.html" accesskey="1" title="">Homepage</a></li>
+				<li><a href="AboutMe.html" accesskey="2" title="">About Me</a></li>
+				<li><a href="MyResearch.html" accesskey="3" title="">My Research</a></li>
+				<li><a href="MyPublications.html" accesskey="4" title="">My Publications</a></li>
+				<li><a href="ContactMe.html" accesskey="5" title="">Contact Me</a></li>
+			</ul>
+			<p>"Satyameva Jayate" (Sanskrit: सत्यमेव जयते satyam-eva jayate; "Truth alone triumphs.")
+<img src="Sree.JPG" ALIGN=RIGHT alt="Image of Seal" width="100" height="120"></p>
+		</div>
+<img src="banner.jpg" ALIGN=CENTRE class="sealImage" alt="Image of Seal">
+
+	</div>
+	</div>
+</div>
+<div id="wel">
+	<div class="container">
+<img src="orcid.org-0000-0002-5455-5023.PNG" ALIGN=LEFT alt="Image of Seal" width="150" height="150"></p>
+</p>
+		<h2>Areas of interests.......</h2>
+		<p>My research interests are in the areas of Artificial Intelligence, Uncertainty Reasoning, Neuro-Symbolic Integration,</p> <p>Knowledge Based Neuro Computing, Knowledge Engineering, Machine Translation, Natural Language Processing and Machine Learning. </p> 
+<p>I am currently exploring problems in Statistical Machine Translation and in Uncertainty Reasoning..</p>
+<p>I am having 10.0+ years of research experience in the areas of Artificial Intelligence. </p>		
+		<!--a href="#" class="button">Etiam posuere</a--> </div>
+
+	<h2>Projects I am working on...</h2>
+	<p><ol type="1" class="mylist">
+		     <li>Integrated Rule-Based learning and Reasoning with Uncertainty</li>
+  		     <li>English-Malayalam StatisticalMachineTranslation System Development</li>
+		     <li>Malayalam-English StatisticalMachineTranslation System Development</li>
+		     <li>Marathi-Hindi StatisticalMachineTranslation System Development</li>
+		     <li>French-English StatisticalMachineTranslation System Development</li>
+		     <li>Decoding Tracer Development</li>
+		    
+	</ol></p>
+</div>
+
+
+<div id="copyright" class="container">
+	<p>"Satyameva Jayate" (Sanskrit: सत्यमेव जयते satyam-eva jayate; lit. "Truth alone triumphs.")</p>
+<p>A mantra from the ancient Indian scripture Mundaka Upanishad- The national motto of India</p>
+<p>In Devanāgarī script	: सत्यमेव जयते नानृतं	सत्येन पन्था विततो देवयानः ।	येनाक्रमन्त्यृषयो ह्याप्तकामा	यत्र तत् सत्यस्य परमं निधानम् ॥६॥
+<p> In Transliteration	: satyameva jayate nānṛtaṁ	satyena panthā vitato devayānaḥ  yenākramantyṛṣayo hyāptakāmā	yatra tat satyasya paramaṁ nidhānam</p>
+<p>In English	: Truth alone triumphs; not falsehood. Through truth the divine path is spread out,	by which the sages whose desires have been completely fulfilled, reach where that supreme treasure of Truth resides.
+</p>
+	<p>&copy; <a href="https://en.wikipedia.org/wiki/Satyameva_Jayate" >Satyameva Jayate</a>. All rights reserved. | Design by Sreelekha</a>.</p>
+</div>
+</body>
+</html>
